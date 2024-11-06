@@ -1,2 +1,2 @@
-# Sales Dashbord
+# Sales Dashboard
  
